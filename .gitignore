@@ -1,0 +1,29 @@
+# Java / Spring Boot
+**/target/
+**/*.class
+
+# React / Node
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Private credentials
+**/application-local.properties
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+**/*.log
+**/logs/
+
+# IDE files
+**/.idea/
+**/.vscode/
+**/.settings/
+**/.classpath
+**/.project
+
+# Operating system files
+.DS_Store
+Thumbs.db
